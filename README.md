@@ -1,4 +1,4 @@
-# 🤖 Discord Token Checke
+# 🤖 Discord Token Checker
 > A fast & save way to check your Discord Tokens without any Proxies
 
 ## ⚙️ Requirments
